@@ -1,3 +1,4 @@
 logging:
   level:
+    root: WARN
     io.github.devatherock.demo.controller: DEBUG
